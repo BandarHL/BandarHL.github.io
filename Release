@@ -1,0 +1,11 @@
+Origin: BandarHelal's Repo
+Label: BandarHelal
+Suite: stable
+Version: 1.0
+Codename: BandarHelal
+Architecture: iphoneos-arm
+Components: main
+Description: BandarHelal's Tweaks
+MD5Sum:
+ 672bd9c39aa906983b23e4bcd6b06d3d 426 Packages
+ f5cba89e0b81a6a455fdb8e8722b0998 344 Packages.bz2
