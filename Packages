@@ -1,122 +1,14 @@
-Package: com.bandarhl.waunlimitedsend
+Package: com.bandar.carrierchanger
 Architecture: iphoneos-arm
-Version: 1.1-7
-Priority: optional
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Depends: mobilesubstrate
-Filename: ./debfiles//com.bandarhl.waunlimitedsend_1.1-7_iphoneos-arm.deb
-Size: 539870
-MD5sum: b8e4d67d917b2f3e23db6702292e5907
-Name: WAUnlimitedSend
-Author: @BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.bandarHl.carrierchanger
-Architecture: iphoneos-arm
-Version: 2.1
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
+Version: 2.0-1+debug
+Section: Tweaks
+Maintainer: @BandarHL
 Installed-Size: 296
 Depends: mobilesubstrate
-Filename: ./debfiles//com.bandarhl.carrierchanger_2.1_iphoneos-arm.deb
-Size: 28638
-MD5sum: 002ddc3a8ccaae011e35a45d80c505b0
+Filename: ./debfiles//com.bandar.carrierchanger_2.0-1+debug_iphoneos-arm.deb
+Size: 24690
+MD5sum: 8f18eb3b349572ff72974d43d2797088
+Homepage: http://twitter.com/BandarHL
+Description: An awesome Tweak to change carrier for anything you want!
 Name: CarrierChanger
-Author: @BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.bandarhelal.cornerradiuschanger
-Architecture: iphoneos-arm
-Version: 1.2-3
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Installed-Size: 248
-Depends: mobilesubstrate, ws.hbang.common, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.bandarhelal.cornerradiuschanger_1.2-3_iphoneos-arm.deb
-Size: 8730
-MD5sum: a6da85889991cd881a615e407e117003
-Name: CornerRadiusChanger
-Author: @BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.bandarHl.presshometounlockcganger
-Architecture: iphoneos-arm
-Version: 2.0-3
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Installed-Size: 252
-Depends: mobilesubstrate, ws.hbang.common, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.bandarhl.presshometounlockcganger_2.0-3_iphoneos-arm.deb
-Size: 9634
-MD5sum: 2ba1ab5b21714ae4b6d440c865ee6cea
-Name: PressHomeToUnlockChanger
-Author: @BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.bandarhl.antirevoke
-Architecture: iphoneos-arm
-Version: 1-Beta
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Installed-Size: 120
-Depends: mobilesubstrate, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.bandarhl.antirevoke_1-Beta_iphoneos-arm.deb
-Size: 3772
-MD5sum: fa4d8a954e94463733e34b265b5a0453
-Name: Anti-Revoke
-Author: @BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.XrepoBandarHL.BBMPlus
-Architecture: iphoneos-arm
-Version: 2.1
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Depends: mobilesubstrate, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.xrepobandarhl.bbmplus_2.1_iphoneos-arm.deb
-Size: 1234274
-MD5sum: fb0e17edbb01faf9fd77ba456b477faf
-Name: BBMPlus
-Author: BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.XRepoBandarHL.IGGhost
-Architecture: iphoneos-arm
-Version: 3.1-1
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Installed-Size: 252
-Depends: mobilesubstrate, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.xrepobandarhl.igghost_3.1-1_iphoneos-arm.deb
-Size: 10470
-MD5sum: 9724058564d007c9e22eb458013cdfdd
-Name: IGGhost
-Author: BandarHelal
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.BandarHL.CrunchyrollVIP
-Architecture: iphoneos-arm
-Version: 1.2
-Priority: optional
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
-Depends: mobilesubstrate, com.BandarHL.RepoIcon
-Filename: ./debfiles//com.bandarhl.crunchyrollvip_1.2_iphoneos-arm.deb
-Size: 244560
-MD5sum: 3efdf0c00bc568743964609fc76e1a5e
-Name: CrunchyrollVIP
-Author: BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
-
-Package: com.BandarHL.RepoIcon
-Architecture: iphoneos-arm
-Version: 1
-Section: System
-Maintainer: @BandarHL
-Filename: ./debfiles//com.bandarhl.repoicon_1_iphoneos-arm.deb
-Size: 4452
-MD5sum: e469714433a62418d06548aa7006c6cc
-Name: Repo icon
-Author: @BandarHL
 
