@@ -1,14 +1,14 @@
-Package: com.bandar.carrierchanger
+Package: com.BandarHL.CrunchyrollVIP
 Architecture: iphoneos-arm
-Version: 2.0-1+debug
-Section: Tweaks
-Maintainer: @BandarHL
-Installed-Size: 296
+Version: 1.2
+Priority: optional
+Section: MyTweaks
+Maintainer: xRepo <support@xRepo.co>
 Depends: mobilesubstrate
-Filename: ./debfiles//com.bandar.carrierchanger_2.0-1+debug_iphoneos-arm.deb
-Size: 24690
-MD5sum: 8f18eb3b349572ff72974d43d2797088
-Homepage: http://twitter.com/BandarHL
-Description: An awesome Tweak to change carrier for anything you want!
-Name: CarrierChanger
+Filename: ./debfiles//com.bandarhl.crunchyrollvip_1.2_iphoneos-arm.deb
+Size: 242890
+MD5sum: c9a8615c7542886e0f34250cb68a1d38
+Name: CrunchyrollVIP
+Author: BandarHL
+Sponsor: xRepo.co <http://xRepo.co>
 
