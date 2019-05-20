@@ -5,7 +5,7 @@ Version: 1.0
 Codename: BandarHelal
 Architecture: iphoneos-arm
 Components: main
-Description: BandarHelal's Tweaks
-MD5Sum:
- ec9a0ce7925b1c35138d5af64fc874a1 376 Packages
- 1a6a4d4bb6e00a8ea999f1c8e3e7c320 320 Packages.bz2
+Description: BandarHelal's Tweaks 
+SHA1:
+ f23ce31ac4e7c7b62b35c3a2b9b33cc16acdea40 376 Packages
+ e5de73001b29bd166c7ff735f14e0bab03493982 320 Packages.bz2
