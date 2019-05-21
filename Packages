@@ -4,10 +4,10 @@ Version: 1.0
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: ./debfiles//com.BandarHL.BHConfirm_1.0_iphoneos-arm.deb
-Size: 34826
-MD5sum: e009727c10245b212b6385e905f0b8e3
+Size: 34836
+MD5sum: a9b01c735e1ef1a1cee8c1505b6d9261
 Description: Tweak for confirm like button
 Name: BHConfirm
-SileoDepiction: https://midnightchips.me/sileo/snapback.json
+SileoDepiction: https://raw.githubusercontent.com/BandarHL/BandarHL.github.io/master/SileoDepiction/BHConfirm.json
 Author: BandarHelal
 
