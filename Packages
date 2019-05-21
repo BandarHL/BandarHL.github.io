@@ -2,13 +2,12 @@ Package: com.BandarHL.CrunchyrollVIP
 Architecture: iphoneos-arm
 Version: 1.2
 Priority: optional
-Section: MyTweaks
-Maintainer: xRepo <support@xRepo.co>
+Section: Tweaks
+Maintainer: BandarHelal <bandarhelal190@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debfiles//com.bandarhl.crunchyrollvip_1.2_iphoneos-arm.deb
-Size: 242890
-MD5sum: c9a8615c7542886e0f34250cb68a1d38
+Size: 242874
+MD5sum: 65dc6e93d435340e0abb73949253e401
 Name: CrunchyrollVIP
 Author: BandarHL
-Sponsor: xRepo.co <http://xRepo.co>
 
