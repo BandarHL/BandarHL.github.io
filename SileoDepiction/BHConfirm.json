@@ -1,13 +1,12 @@
 {
-  "minVersion": "1.0",
-  "headerImage": "",
+  "minVersion": "0.1",
   "tintColor": "#228b22",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "Add alert when click like button in twitter",
+          "title": "add Confirm alert when click like button in twitter",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -15,41 +14,11 @@
         {
           "itemCornerRadius": 6,
           "itemSize": "{160, 346.4533333333333}",
-          "screenshots": [
-            {
-              "accessibilityText": "BHConfirm",
-              "url": "",
-              "fullSizeURL": ""
-            },
-            {
-              "accessibilityText": "BHConfirm",
-              "url": "",
-              "fullSizeURL": ""
-            },
-            {
-              "accessibilityText": "BHConfirm",
-              "url": "",
-              "fullSizeURL": ""
-            },
-            {
-              "accessibilityText": "BHConfirm",
-              "url": "",
-              "fullSizeURL": ""
-            }
-          ],
-          "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Add alert when click like button",
+          "markdown": "add Confirm alert when click like button in twitter",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "title": "Latest Version",
-          "class": "DepictionHeaderView"
         },
         {
           "title": "Version",
@@ -58,7 +27,7 @@
         },
         {
           "title": "Released",
-          "text": "22/14/19",
+          "text": "21/May/19",
           "class": "DepictionTableTextView"
         },
         {
@@ -73,51 +42,15 @@
         },
         {
           "title": "Developer",
-          "text": "BandarHelal",
+          "text": "Bandar Helal",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "Bandarhelal190@gmail.com",
+          "action": "bandarhelal190@gmail.com",
           "class": "DepictionTableButtonView"
-        },
-        {
-          "URL": "",
-          "width": 30,
-          "height": 30,
-          "alignment": 1,
-          "corenerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
         }
       ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "title": "Version 1.0.4",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-            "markdown": "Todays update in SnapBack includes the Follow:\n- Fix Chimeras Shortfalls",
-            "useSpacing": false, 
-            "class": "DepictionMarkdownView"
-        },
-        {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/14/19</small>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
-        }
-      ],
-      "class": "DepictionStackView"
     }
-  ],
-  "class":"DepictionTabView"
+  ]
 }
