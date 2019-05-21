@@ -1,13 +1,14 @@
-Package: com.BandarHL.CrunchyrollVIP
+Package: com.bandar.crunchyrollvip
 Architecture: iphoneos-arm
 Version: 1.2
 Priority: optional
 Section: Tweaks
 Maintainer: BandarHelal <bandarhelal190@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debfiles//com.bandarhl.crunchyrollvip_1.2_iphoneos-arm.deb
-Size: 242874
-MD5sum: 65dc6e93d435340e0abb73949253e401
+Filename: ./debfiles//com.bandar.crunchyrollvip_1.2_iphoneos-arm.deb
+Size: 242890
+MD5sum: 10d480bc64c5799fe52d61b946ee3e88
+Description: hack for crunchyroll
 Name: CrunchyrollVIP
 Author: BandarHL
 
