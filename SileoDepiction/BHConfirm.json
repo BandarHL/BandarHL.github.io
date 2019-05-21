@@ -1,0 +1,65 @@
+{
+  "minVersion": "0.1",
+  "tintColor": "#228b22",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "add Confirm alert when click like button in twitter",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+        },
+        {
+          "markdown": "add Confirm alert when click like button in twitter",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "21/May/19",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/BandarHL",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Developer",
+          "text": "Bandar Helal",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "bandarhelal190@gmail.com",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class":"DepictionTabView"
+}
