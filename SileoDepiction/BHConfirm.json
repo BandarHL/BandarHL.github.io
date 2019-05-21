@@ -1,24 +1,28 @@
 {
-  "minVersion": "0.1",
+  "minVersion": "1.0",
+  "headerImage": "",
   "tintColor": "#228b22",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "add Confirm alert when click like button in twitter",
+          "title": "Add alert when click like button in twitter",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
-          "itemCornerRadius": 6,
-          "itemSize": "{160, 346.4533333333333}",
-        },
-        {
-          "markdown": "add Confirm alert when click like button in twitter",
+          "markdown": "Add alert when click like button",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
         },
         {
           "title": "Version",
@@ -27,7 +31,7 @@
         },
         {
           "title": "Released",
-          "text": "21/May/19",
+          "text": "22/14/19",
           "class": "DepictionTableTextView"
         },
         {
@@ -42,12 +46,12 @@
         },
         {
           "title": "Developer",
-          "text": "Bandar Helal",
+          "text": "BandarHelal",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Contact Support",
-          "action": "bandarhelal190@gmail.com",
+          "action": "Bandarhelal190@gmail.com",
           "class": "DepictionTableButtonView"
         },
         {
@@ -58,5 +62,5 @@
       "class": "DepictionStackView"
     }
   ],
-  "class": "DepictionTabView"
+  "class":"DepictionTabView"
 }
