@@ -49,8 +49,14 @@
           "title": "Contact Support",
           "action": "bandarhelal190@gmail.com",
           "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
         }
       ],
+      "class": "DepictionStackView"
     }
-  ]
+  ],
+  "class": "DepictionTabView"
 }
