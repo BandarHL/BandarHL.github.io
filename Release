@@ -7,11 +7,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: BandarHelal Main Repo
 MD5Sum:
-  588 Packages
-  425 Packages.bz2
-  464 Packages.xz
+ MD5 1011 Packages
+ MD5 634 Packages.bz2
+ MD5 640 Packages.xz
 SHA256:
- b3da7513761df2c98ba4358d0c855362dc6b8e92b3d0827f89101937e3fb0257 588 Packages
- 393f74e96d94114d813e69834d55efdb8376b55f01d71aa50088b14ece2f4af8 425 Packages.bz2
- b34ca8cd34643e2d1cd8edfd2c413a2b4f252f0e84059c33b88c7f2810564446 464 Packages.xz
+ d8132187db2ef05f93216875dc8d6d4dab22deffa43496897152a1093ca7fd65 1011 Packages
+ d6b9b0aec261a4ed9e12e29f7f8fbb9783b046294028a01806b9e5dab6a0696b 634 Packages.bz2
+ a67e0d4bdcb3e2d52228f1b4d8443cdd97c24219f615d6d870041726858335ea 640 Packages.xz
 

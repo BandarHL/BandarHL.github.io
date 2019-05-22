@@ -15,3 +15,17 @@ Instead-Size: 34836
 Name: BHConfirm
 Sileodepiction: https://raw.githubusercontent.com/BandarHL/BandarHL.github.io/master/SileoDepiction/BHConfirm.json
 
+Package: com.BandarHL.BTWSave
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debfiles/com.BandarHL.BTWSave_0.1-1_iphoneos-arm.deb
+Size: 269738
+MD5sum: 3282b105fb4d7112e58b1d48dcaf8c86
+SHA1: 5ff9089d98a74c9f6609df38dd2b8ec978636b0d
+SHA256: fcbf0852a918447607c6e8a07ed98c866bfb7a42b92ca71c7f337f2205b1ccf2
+Section: System
+Priority: optional
+Author: BandarHelal
+Name: BTWSave
+
