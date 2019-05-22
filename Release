@@ -1,16 +1,17 @@
-Origin: BandarHelal's Repo
-Label: BandarHelal
+Origin: BandarHelal Repo
+Label: BandarHelal Repo
 Suite: stable
 Version: 1.0
-Codename: BandarHelal
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: BandarHelal's Tweaks 
+Description: BandarHelal Main Repo
 MD5Sum:
-36fdcbe379736a6fca4d0fb1f02f7986 518 Packages
-92de8b4fee9f8cf49c236f7d4e938ab2 353 Packages.bz2
-
+  588 Packages
+  425 Packages.bz2
+  464 Packages.xz
 SHA256:
-c65391fdc72a7438e730d9e2b7e1448c21837687763d8076f5f314e3ca7fc7c8 518 Packages
+ b3da7513761df2c98ba4358d0c855362dc6b8e92b3d0827f89101937e3fb0257 588 Packages
+ 393f74e96d94114d813e69834d55efdb8376b55f01d71aa50088b14ece2f4af8 425 Packages.bz2
+ b34ca8cd34643e2d1cd8edfd2c413a2b4f252f0e84059c33b88c7f2810564446 464 Packages.xz
 
-1da92a3c1f2b6d3a087889e18aa18ed0be7c63d2d2e7a9b3b5b4ad0ad3351e15 353 Packages.bz2
